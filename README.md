@@ -1,1 +1,1 @@
-# mbti assets
+# assets
