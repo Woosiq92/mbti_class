@@ -1,0 +1,25 @@
+body {
+    font-family: "Pretendard Variable", sans-serif; /* 고딕체  */
+}
+
+.page-title {
+    font-size: 50px;
+    font-weight: 800;
+    color: #13B491;
+}
+
+.page-subtitle {
+    font-size: 24px;
+    font-weight: 700;
+    color: #ffa32d;
+    border: 5px solid #ffa32d;
+    width: 240px;
+    height: 50px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
